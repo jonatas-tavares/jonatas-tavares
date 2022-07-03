@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @jonatas-tavares.
 - 👀 I’m interested in solving problems with Data Science and Optimization.
 - 🌱 I’m currently learning:
-  - How to use git and git hub;
-  - Cloud;
-  - Big Data;
-  - Docker;
-  - Machine Learning; 
+  - AWS Cloud;
+  - Big Data tools like PySpark;
+  - Docker in general;
+  - Machine Learning topics; 
 - 💞️ I’m looking to collaborate on projects in my areas of interest.
 - 📫 How to reach me ...
 

@@ -2,8 +2,8 @@
 - 👀 I’m interested in solving real life problems with Data Science and Optimization.
 - 🌱 I'm currently working in projects to compose my portfolio. 
 - 🌱 And I’m learning in the process:
-  - Machine Learning topics like artificial neural networks;
-  - AWS Cloud in general;
+  - Docker and Kubernetes;
+  - GCP in general;
 - 💞️ I’m looking to collaborate on projects in my areas of interest.
 - 📫 How to reach me ...
 
